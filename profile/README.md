@@ -2,7 +2,7 @@
 
 **Put Claude Code in hyperdrive.**
 
-At Tilework. we unleashed a remarkable improvement in our engineering productivity by customizing our coding agent to our exact preferences. We wrapped our agent with layers of configuration that perfectly match our vision for our development lifecycle. The affect of this felt like stepping into the future of engineering.
+At Tilework. we unleashed a remarkable improvement in our engineering productivity by customizing our coding agent to our exact preferences. We wrapped our agent with layers of configuration that perfectly match our vision for our development lifecycle. The effect of this felt like stepping into the future of engineering.
 
 We want to help other teams harness their coding agents as well, so everyone can build at the frontier.
 
