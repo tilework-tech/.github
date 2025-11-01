@@ -2,9 +2,11 @@
 
 **Put Claude Code in hyperdrive.**
 
-At Tilework, our coding agents transformed the way we build. Our goal is to accelerate adoption of coding agents by providing engineering teams easy tools to customize how their agents work - so coding agents perfectly match the unique preferencies, policies, and skills of users. 
+At Tilework. we unleashed a remarkable improvement in our engineering productivity by customizing our coding agent to our exact preferences. We wrapped our agent with layers of configuration that perfectly match our vision for our development lifecycle. The affect of this felt like stepping into the future of engineering.
 
-We understand the detailed configuration options available across Coding Agents, packaging them for easy consumption by users.
+We want to help other teams harness their coding agents as well, so everyone can build at the frontier.
+
+Our tools help engineering orgs deeply customize how their agents work. We understand the details of how Coding Agents work and the complex, constantly changing set of capabilities, packaging them for easy modification by users.
 
 ## Nori
 
